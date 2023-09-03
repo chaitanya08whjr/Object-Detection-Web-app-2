@@ -1,0 +1,23 @@
+body
+{
+background-size: cover;
+background-position: center;
+}
+
+.heading
+{
+font-size: 30px;
+width: 100%;
+margin: 0px;
+}
+
+a{
+    font-size: 200px;
+    width: 50%;
+}
+
+.button{
+    font-size: 30px;
+    width: 100%;
+    margin: 0px;
+}
